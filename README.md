@@ -4,7 +4,7 @@ A binary image classifier that tells cats and dogs apart, built with a custom co
 
 The best configuration (a 5-block CNN trained with AdamW) reaches **95.04% validation accuracy**.
 
-## Dataset
+## Dataset:
 
 [Cats vs Dogs (10k cat / 10k dog images)](https://www.kaggle.com/datasets/haroon669/cats-vs-dogs-dataset-10k-cat-10k-dog-images) from Kaggle, downloaded directly in-notebook via `kagglehub`.
 
